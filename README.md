@@ -11,7 +11,7 @@ ________________________________________________________________________________
 - If this link says 403 Forbidden, you should select the address bar at the top of the screen and then press enter to refresh the page, which should fix the issue
 
 Step-by-step explanation:
-1. Selet the adress bar at the top of the screen
+1. Select the address bar at the top of the screen
 <img width="1619" height="80" alt="image" src="https://github.com/user-attachments/assets/a10d44bb-85ac-4fcb-a28b-36872c06e0b1" />
 2. Press enter/search
 
