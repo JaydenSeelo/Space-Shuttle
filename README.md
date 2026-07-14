@@ -15,7 +15,10 @@ Step by step explination:
 2. Press enter/search
 
 - Another way to fix this is copying the url and pasting it into another tab
-
+Step by step explination:
+1. Select the adress bar at the top of the screen
+<img width="1619" height="80" alt="image" src="https://github.com/user-attachments/assets/a10d44bb-85ac-4fcb-a28b-36872c06e0b1" />
+2. Paste the link in a different adress bar (a new tab)
 ## How to download my project:
 - First go through the link to visit my project
 - Then select the download button (highlighted in yellow)
