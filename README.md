@@ -20,6 +20,7 @@ Step by step explination:
 Step by step explination:
 1. Select the adress bar at the top of the screen
 2. Copy the adress bar that you selected
+
 3. Paste the link in a different adress bar (a new tab)
 ## How to download my project:
 - First go through the link to visit my project
