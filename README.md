@@ -43,13 +43,16 @@ ________________________________________________________________________________
 
 - One of the most difficult parts of this project was the back of my rocket. There were so many coplex, intricate parts that I had to redo so many times that it took me countless hours just to get it right.
 <img width="811" height="634" alt="image" src="https://github.com/user-attachments/assets/7f5643c1-90b6-42c6-b025-3cbd46909fae" />
+
 _____________________________________________________________________________________________________________________________
 ## What I learned from this project:
 - I learned how to use multiple new tools that ive never used before like the transform tool
 - I leaned how to copy off images and try to make the dimentions correct
 - I learned how to use many tolls better like fillet tools
 - I learned how to make complex sketches (here is a picture of one sketch I made)
+
 <img width="494" height="628" alt="image" src="https://github.com/user-attachments/assets/09eeba7b-8aff-47a2-8f93-d7226cec8364" />
+
 _____________________________________________________________________________________________________________________________
 ## Thank you for viewing my devlog! I had so much fun creating this project and I can't wait to start my next project (which will probably be a space station)
 
