@@ -12,7 +12,7 @@ ________________________________________________________________________________
 Step by step explination:
 1. Selet the adress bar at the top of the screen
 <img width="1619" height="80" alt="image" src="https://github.com/user-attachments/assets/a10d44bb-85ac-4fcb-a28b-36872c06e0b1" />
-2. Press enter/search
+  2. Press enter/search
 
 - Another way to fix this is copying the url and pasting it into another tab
 Step by step explination:
