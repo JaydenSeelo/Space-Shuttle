@@ -1,6 +1,6 @@
 # Space Shuttle
 _____________________________________________________________________________________________________________________________
-# I Created a Space Shuttle Using CAD
+# I Created a Space Shuttle Using CAD (Computer Aided Design)
 
 <img width="723" height="459" alt="image" src="https://github.com/user-attachments/assets/8538bf68-f998-44ad-af03-1518c7ec2674" />
 
@@ -25,6 +25,12 @@ Step by step explination:
 <img width="974" height="246" alt="image" src="https://github.com/user-attachments/assets/7430c58d-8c4a-40bd-9f18-850241792533" />
 
 - After selecting the download button a menu should appear where you can then select many options before you export the file
+_____________________________________________________________________________________________________________________________
 
 ## Does this project support AMS (Multi-Color Printing)?
 - Yes, this project should support AMS since its broken down into seperate pieces instead of just coloring the visible faces on the rocket
+_____________________________________________________________________________________________________________________________
+
+## Why did I chose a space shuttle?
+- This project was very hard to make and not many space shuttles are avaliable and they are usually not realistic. I wanted to make a space shuttle since it was in the theme of the event and I was interested in testing my CAD skills. I am so happy with the result and realism of my rocket. If you look at other designs online, a lot of them will be way less realistic then mine. For example here is a link to a space shuttle on maker world, comparing it to my rocket, you can see the difference in realism
+https://makerworld.com/en/models/956260-space-shuttle#profileId-925247
