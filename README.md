@@ -37,7 +37,7 @@ ________________________________________________________________________________
 https://makerworld.com/en/models/956260-space-shuttle#profileId-925247
 _____________________________________________________________________________________________________________________________
 
-## What was the most difficult part if this project?
+## What was the most difficult part of this project?
 
 - One of the most difficult parts of this project was the back of my rocket. There were so many coplex, intricate parts that I had to redo so many times that it took me countless hours just to get it right.
 <img width="811" height="634" alt="image" src="https://github.com/user-attachments/assets/7f5643c1-90b6-42c6-b025-3cbd46909fae" />
