@@ -10,8 +10,9 @@ ________________________________________________________________________________
 
 ## How to download my project:
 - First go through the link to visit my project
-- Then select the download button (Circled in Yellow)
-<img width="938" height="788" alt="image" src="https://github.com/user-attachments/assets/7dceeeb6-8945-4f44-b15d-2893033391bb" />
+- Then select the download button (highlighted in yellow)
+<img width="974" height="246" alt="image" src="https://github.com/user-attachments/assets/7430c58d-8c4a-40bd-9f18-850241792533" />
+
 - After selecting the download button a menu should appear where you can then select many options before you export the file
 
 ## Does this project support AMS (Multi-Color Printing)?
