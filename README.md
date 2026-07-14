@@ -9,6 +9,7 @@ ________________________________________________________________________________
 - You can visit the model of my space shuttle at (https://cad.onshape.com/documents/0cc091979462d1f40116053c/w/ab82948fa33e8f748e0fcb44/e/4129cc439ac4ca6aab65041f?renderMode=0&uiState=6a565da1ab0f5b3c13bc4737)
 
 - If this link says 403 Forbidden, you should select the adress bar at the top of the screen and then press enter to refresh the page, which should fix the issue
+
 Step by step explination:
 1. Selet the adress bar at the top of the screen
 <img width="1619" height="80" alt="image" src="https://github.com/user-attachments/assets/a10d44bb-85ac-4fcb-a28b-36872c06e0b1" />
