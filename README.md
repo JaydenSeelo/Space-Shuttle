@@ -15,6 +15,7 @@ Step by step explination:
 2. Press enter/search
 
 - Another way to fix this is copying the url and pasting it into another tab
+
 Step by step explination:
 1. Select the adress bar at the top of the screen
 2. Paste the link in a different adress bar (a new tab)
