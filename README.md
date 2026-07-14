@@ -27,7 +27,7 @@ Step-by-step explanation:
 - Then select the download button (highlighted in yellow)
 <img width="974" height="246" alt="image" src="https://github.com/user-attachments/assets/7430c58d-8c4a-40bd-9f18-850241792533" />
 
-- After selecting the download, button a menu should appear where you can then select many options before you export the file
+- After selecting the download button, a menu should appear where you can then select many options before you export the file
 _____________________________________________________________________________________________________________________________
 
 ## Does this project support AMS (Multi-Color Printing)?
