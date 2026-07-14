@@ -35,3 +35,9 @@ ________________________________________________________________________________
 ## Why did I chose a space shuttle?
 - This project was very hard to make and not many space shuttles are avaliable and they are usually not realistic. I wanted to make a space shuttle since it was in the theme of the event and I was interested in testing my CAD skills. I am so happy with the result and realism of my rocket. If you look at other designs online, a lot of them will be way less realistic then mine. For example here is a link to a space shuttle on maker world, comparing it to my rocket, you can see the difference in realism
 https://makerworld.com/en/models/956260-space-shuttle#profileId-925247
+_____________________________________________________________________________________________________________________________
+
+## What was the most difficult part if this project?
+- One of the most difficult parts of this project was the back of my rocket. There were so many coplex, intricate parts that I had to redo so many times that it took me countless hours just to get it right.
+<img width="811" height="634" alt="image" src="https://github.com/user-attachments/assets/7f5643c1-90b6-42c6-b025-3cbd46909fae" />
+
