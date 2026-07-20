@@ -33,7 +33,14 @@ ________________________________________________________________________________
 ## Does this project support AMS (Multi-Color Printing)?
 - Yes, this project should support AMS since it's broken down into separate pieces instead of just coloring the visible faces on the rocket
 _____________________________________________________________________________________________________________________________
-
+## Real photos of the printed space shuttle
+- I printed this using PETG fillimant
+- I didn't use multicolor for this print
+- I used a bambu printer to print this
+- The quality is not the best on this print since the supports messed up some parts that were too small (this can be fixed by printing it larger but I decided to print it small to save filliment, but the print was still functional and still looked good)
+<img width="3024" height="4032" alt="Space Shuttle 3D Print" src="https://github.com/user-attachments/assets/4704582f-d6c6-458f-93bb-b0f7b37c1359" />
+<img width="3024" height="4032" alt="Space Shuttle 3D Print 2" src="https://github.com/user-attachments/assets/99f969d1-ffe5-4830-835f-0d0960cb0dfb" />
+_____________________________________________________________________________________________________________________________
 ## Why did I choose a space shuttle?
 - This project was very hard to make and not many space shuttles are available, and they are usually not realistic. I wanted to make a space shuttle since it was the theme of the event, and I was interested in testing my CAD skills. I am so happy with the result and realism of my rocket. If you look at other designs online, a lot of them will be way less realistic than mine. For example, here is a link to a space shuttle on maker world. Comparing it to my rocket, you can see the difference in realism.
 https://makerworld.com/en/models/956260-space-shuttle#profileId-925247
