@@ -39,6 +39,7 @@ ________________________________________________________________________________
 - I used a bambu printer to print this
 - The quality is not the best on this print since the supports messed up some parts that were too small (this can be fixed by printing it larger but I decided to print it small to save filliment, but the print was still functional and still looked good)
 <img width="3024" height="4032" alt="Space Shuttle 3D Print" src="https://github.com/user-attachments/assets/4704582f-d6c6-458f-93bb-b0f7b37c1359" />
+<img width="1783" height="3175" alt="image" src="https://github.com/user-attachments/assets/a9847475-6a00-455e-bd2b-156221768238" />
 
 _____________________________________________________________________________________________________________________________
 ## Why did I choose a space shuttle?
@@ -50,6 +51,7 @@ ________________________________________________________________________________
 
 - One of the most difficult parts of this project was the back of my rocket. There were so many complex, intricate parts that I had to redo so many times that it took me countless hours just to get it right.
 <img width="811" height="634" alt="image" src="https://github.com/user-attachments/assets/7f5643c1-90b6-42c6-b025-3cbd46909fae" />
+<img width="1348" height="2822" alt="image" src="https://github.com/user-attachments/assets/de9e85bd-6a01-40ab-a5b6-04e381cf384d" />
 
 _____________________________________________________________________________________________________________________________
 ## What I learned from this project:
