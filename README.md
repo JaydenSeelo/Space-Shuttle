@@ -39,7 +39,7 @@ ________________________________________________________________________________
 - I used a bambu printer to print this
 - The quality is not the best on this print since the supports messed up some parts that were too small (this can be fixed by printing it larger but I decided to print it small to save filliment, but the print was still functional and still looked good)
 <img width="594" height="1058" alt="image" src="https://github.com/user-attachments/assets/a9847475-6a00-455e-bd2b-156221768238" />
-<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/cf051fca-1573-4eb1-a408-6ef706e80d97" />
+<img width="594" height="1058" alt="image" src="https://github.com/user-attachments/assets/cf051fca-1573-4eb1-a408-6ef706e80d97" />
 
 _____________________________________________________________________________________________________________________________
 ## Why did I choose a space shuttle?
